@@ -67,8 +67,10 @@
   /* border: 0.5px solid rgb(109, 108, 107); */
   padding: 2px;
   object-fit: cover;
-  max-width: 145px;
-  min-height: 130px;
+  /* max-width: 145px;
+  min-height: 130px; */
+  width: 9rem;
+  height: 9rem;
 }
 
 .com{
